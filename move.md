@@ -8,6 +8,7 @@ Freeside will almost certainly have to leave its current space by 31 May 2020, d
 
 # Background
 Freeside was founded over ten years ago by enthusiastic people who wanted to share the maker/hacker ethos.
+
 Freeside has led the way in Atlanta, and many other maker/hackerspaces have been established in the metro area (Maker Station, Decatur Makers, Mass Collective, Firestation)
 
 # Alternatives
@@ -70,10 +71,10 @@ You will get famous and feel righteous for concretely supporting getting skills,
 # Please Help As You Can
 
 ## Who Can Help
-Freesiders
-Friends of Freeside
-Philanthropists, Organizations, and Political Leaders
-Others supportive of the maker/hacker ethos
+- Freesiders
+- Friends of Freeside
+- Philanthropists, Organizations, and Political Leaders
+- Others supportive of the maker/hacker ethos
 
 ## How Can Help
 - Identify and introduce philanthropists and leaders that might be interested in supporting Freeside during a move or thereafter or both
