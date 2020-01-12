@@ -22,7 +22,7 @@ A few entrepreneurs know to members of Freeside are interested in perhaps buying
 # Recent Progress
 Saturday, 12 Jan 2020, teams drove round Freeside's area looking for potential sites.
 
-Saturday, 12 Jan 2020, Jonathan Putnam (involved in establishing Freeside ten years ago), sean McNealy, Adam Greene, and Jud discussed Jonathan's deep relevant knowledge.
+Saturday, 12 Jan 2020, Jonathan Putnam (involved in establishing Freeside ten years ago), Sean McNealy, Adam Greene, and Jud discussed Jonathan's deep relevant knowledge.
 
 Jonathan was involved in establishing Freeside years ago, is a a creative, entrepreneurial type, and has  been consistently interested in establishing organizations and venues in line with the maker / creator / hacker ethos.
 
