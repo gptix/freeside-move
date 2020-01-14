@@ -83,6 +83,9 @@ You will get famous and feel righteous for concretely supporting getting skills,
 # Tracking Progress
 We should create a Google doc or docs to maintain knowledge of what we plan to do, what we have done, and persons and organizations we have met with regarding this.
 
+A spreadsheet recording properties of interest is 
+[here](https://docs.google.com/spreadsheets/d/1AcQqed3L6GlV0JOErRRE0C6FHjsanWcofTUG1FJYOgU/edit#gid=0)
+
 # Communication
 ## Member (and Friends of Freeside) meetings
 ## Recurring email updates
